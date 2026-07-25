@@ -34,7 +34,6 @@
 
 ## 🚀 Exploring DevOps Tools
 
-- 🏗️ Terraform
 - 🔄 Jenkins (CI/CD Pipeline)
 - 📊 Datadog (Monitoring & Observability)
 - ☁️ AWS Cloud Services
