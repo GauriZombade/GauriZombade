@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Gauri Zombade Banner" width="100%">
+</p>
 # Hi there 👋, I'm Gauri Zombade
 
 💻 **DevOps Enthusiast** passionate about Cloud, Automation, and Infrastructure.
