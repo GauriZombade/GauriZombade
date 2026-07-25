@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Gauri Zombade</h1>
 
 <h3 align="center">
-🚀 DevOps Enthusiast | ☁️ Cloud & Automation Learner
+🚀 DevOps Enthusiast | ☁️ Exploring Cloud & Automation
 </h3>
 
 ---
