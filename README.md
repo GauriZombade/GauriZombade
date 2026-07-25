@@ -1,27 +1,50 @@
-<p align="center">
-  <img src="banner.png" alt="Gauri Zombade Banner" width="100%">
-</p>
-# Hi there 👋, I'm Gauri Zombade
+<div align="center">
 
-💻 **DevOps Enthusiast** passionate about Cloud, Automation, and Infrastructure.
+<img src="banner.png" alt="Gauri Zombade Banner" width="100%">
 
-🚀 I enjoy building hands-on DevOps projects and continuously improving my skills in modern DevOps tools and technologies.
+</div>
 
-## ⚡ Tech Stack
+<h1 align="center">Hi 👋, I'm Gauri Zombade</h1>
+
+<h3 align="center">
+🚀 DevOps Enthusiast | ☁️ Cloud & Automation Learner
+</h3>
+
+---
+
+## 👩‍💻 About Me
+
+- 🌱 Currently learning **DevOps, Cloud & Automation**
+- ☁️ Exploring **AWS, Docker & Kubernetes**
+- ⚙️ Interested in **CI/CD, Cloud Infrastructure & Automation**
+- 💻 Passionate about building and deploying applications
+
+---
+
+## 🛠️ Tech Stack
 
 - 🐧 Linux
-- 🌿 Git & GitHub
+- 🔧 Git
 - 🐳 Docker
 - ☸️ Kubernetes
-- 🔧 Jenkins
 - ☁️ AWS
-- 🌍 Terraform
-- 💻 Bash
+- 🏗️ Terraform
 
-## 🎯 Current Focus
+---
 
-- ☸️ Kubernetes
-- 🌍 Terraform
-- ☁️ AWS
-- ⚙️ Infrastructure Automation
-- 🔄 CI/CD
+## 🚀 Exploring DevOps Tools
+
+- 🏗️ Terraform
+- 🔄 Jenkins (CI/CD Pipeline)
+- 📊 Datadog (Monitoring & Observability)
+- ☁️ AWS Cloud Services
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GauriZombade&show_icons=true&theme=tokyonight" />
+
+</div>
