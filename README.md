@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Gauri Zombade
 
-<!--
-**GauriZombade/GauriZombade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **DevOps Enthusiast** passionate about Cloud, Automation, and Infrastructure.
 
-Here are some ideas to get you started:
+🚀 I enjoy building hands-on DevOps projects and continuously improving my skills in modern DevOps tools and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+
+- 🐧 Linux
+- 🌿 Git & GitHub
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🔧 Jenkins
+- ☁️ AWS
+- 🌍 Terraform
+- 💻 Bash
+
+## 🎯 Current Focus
+
+- ☸️ Kubernetes
+- 🌍 Terraform
+- ☁️ AWS
+- ⚙️ Infrastructure Automation
+- 🔄 CI/CD
