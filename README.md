@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="banner.png" alt="Gauri Zombade Banner" width="100%">
-
-</div>
 
 <h1 align="center">Hi 👋, I'm Gauri Zombade</h1>
 
